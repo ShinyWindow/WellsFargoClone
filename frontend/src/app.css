@@ -1,0 +1,113 @@
+body{
+    background-color:#141414;
+    color:white !important;
+    margin:0;
+}
+
+.header-box{
+    background-color: #141414;
+    margin: auto;
+    width: 100vw;
+    height: 6vh;
+    color:white;
+    display:flex;
+    justify-content:space-between;
+    padding:13px 20px;
+    font-size:16px;
+    font-weight:600;
+}
+
+.descriptor-text{
+    color:white;
+    padding:19px 0;
+    font-size:35px;
+    line-height:38px;
+}
+
+.App_container__ZOU-G{
+    max-width:none !important;
+    min-width:0 !important;
+}
+
+.Headers_linkButton__SE\+DE{
+    margin:0 0 19px 0 !important;
+    padding:0;
+}
+
+.Button-module_button__1yqRw{
+    width: 100% !important;
+    height:50px;
+    background-color:white;
+}
+
+.Button-module_button__1yqRw .Button-module_text__38wV0, .Button-module_button__1yqRw .Button-module_caret__HN7x4{
+    color:black;
+}
+
+.mini-description{
+    color:white;
+}
+
+.front-padding{
+    padding:0 23px;
+}
+
+.mild-bold{
+    font-weight:600;
+}
+
+.line-margin{
+    margin-top:60px;
+    margin-bottom:30px;
+}
+
+.horizontal-line{
+    width:100%;
+    height:2px;
+    background:grey;
+}
+
+.color-white{
+    color:white !important;
+}
+
+.total{
+    font-size:55px;
+    font-weight:500;
+    line-height:65px;
+    margin-bottom:70px;
+}
+
+.accounts-title{
+    display:flex;
+    justify-content:space-between;
+    font-size:32px;
+    margin-bottom:25px;
+}
+
+.bank-card{
+    width:100%;
+    height:100px;
+    background-color:white;
+    border-radius:10px;
+    margin-bottom:20px;
+    color:black;
+    padding:10px;
+    padding-right:25px;
+    white-space: nowrap;
+}
+
+.balance-number{
+    margin-top:5px;
+    font-size:23px;
+}
+
+.hamburger{
+    transform:rotate(90deg);
+}
+
+.bank-card-container{
+    display:flex;
+    justify-content:space-between;
+    flex-wrap:wrap;
+}
